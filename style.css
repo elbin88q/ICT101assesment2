@@ -510,7 +510,11 @@ table tr td{
     .search input[type=text]{
     width: auto;
     }
-    
+    .links h2{
+        color: #000000;
+        padding-top: 10px;
+        margin-bottom: 20px;
+    }
     
   }
 
